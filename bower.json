@@ -1,0 +1,23 @@
+{
+  "name": "applejax",
+  "version": "0.0.0",
+  "authors": [
+    "Mike Holly <mikejholly@gmail.com>"
+  ],
+  "description": "Hyper-minimal AJAX client for front-end applications.",
+  "keywords": [
+    "ajax",
+    "simple"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.14.0"
+  }
+}

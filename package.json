@@ -1,0 +1,32 @@
+{
+  "name": "applejax",
+  "version": "0.0.0",
+  "description": "Hyper-minimal AJAX client for front-end applications.",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikejholly/applejax"
+  },
+  "keywords": [
+    "ajax",
+    "simple"
+  ],
+  "author": "Mike Holly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikejholly/applejax/issues"
+  },
+  "homepage": "https://github.com/mikejholly/applejax",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-browserify": "^0.5.0",
+    "gulp-qunit": "^0.3.0",
+    "gulp-concat": "^2.2.0"
+  }
+}
