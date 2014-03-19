@@ -1,4 +1,4 @@
-## Hyper-minimal AJAX client for front-end applications.
+## Hyper-minimal AJAX client for the browser
 
 My goal was to create a modern, tiny and convenient AJAX request library with no dependencies.
 
